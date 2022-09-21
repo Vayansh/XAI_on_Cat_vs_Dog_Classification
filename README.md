@@ -13,3 +13,8 @@ Convolutional Neural Network (CNN) is an algorithm taking an image as input then
 Training Loss and Validation loss Graph
 ![image](https://user-images.githubusercontent.com/92180055/191440563-d3f1f7c4-8f96-4f10-bff7-770c04b19abf.png)
 
+## Predictions
+
+![image](https://user-images.githubusercontent.com/92180055/191441659-0cf86be9-361a-4a33-bc94-bc359df53c8b.png)
+
+![image](https://user-images.githubusercontent.com/92180055/191441870-fccd6eba-65b9-4fee-8fd3-e26b73650ddd.png)
