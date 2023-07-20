@@ -1,17 +1,27 @@
-# Cat-vs-Dog-Classification
+# Explainable AI on Cat vs. Dog Classification
 
-## Context
-The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
-This dataset is provided as a subset of photos from a much larger dataset of 3 million manually annotated photos.
-The dataset was developed as a partnership between Petfinder.com and Microsoft.
+## Motive
 
-## Cat and dog classification using CNN
-Convolutional Neural Network (CNN) is an algorithm taking an image as input then assigning weights and biases to all the aspects of an image and thus differentiates one from the other. Neural networks can be trained by using batches of images, each of them having a label to identify the real nature of the image (cat or dog here). A batch can contain few tenths to hundreds of images. For each and every image, the network prediction is compared with the corresponding existing label, and the distance between network prediction and the truth is evaluated for the whole batch. Then, the network parameters are modified to minimize the distance and thus the prediction capability of the network is increased. The training process continues for every batch similarly.
+ The objective is to develop a Convolutional Neural Network (CNN) model capable of accurately identifying whether an image contains a cat or a dog. Additionally, the 
+ Shap Explainer will be employed to provide insights into the model's reasoning behind its classification decision for each image.
+
+# Dataset Selection
+ I used the cats vs. dogs classification dataset from Kaggle. This dataset is provided as a subset of photos from a much larger dataset of 3 million manually 
+ annotated photos.
+ 
+ [Link to Dataset](https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset)
 
 ## Model Training and Plotting
 
-Training Loss and Validation loss Graph
-![image](https://user-images.githubusercontent.com/92180055/191440563-d3f1f7c4-8f96-4f10-bff7-770c04b19abf.png)
+Training Loss and Validation Loss Graph
+
+ ![download](https://github.com/Vayansh/XAI_on_Cat_vs_Dog_Classification/assets/92180055/52dfe0d4-af16-494c-81da-6901f64872bf)
+
+
+# Accuracy and Predictions
+
+## Accuracy
+  This Convolutional Neural Network (CNN) model demonstrated a respectable accuracy of 0.94% at around 12500 test cases, demonstrating its strong performance and  efficacy in handling the assigned task.
 
 ## Predictions
 
