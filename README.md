@@ -11,20 +11,29 @@
  
  [Link to Dataset](https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset)
 
-## Model Training and Plotting
+# Model Creation and Plotting
+## Model Creation
 
-Training Loss and Validation Loss Graph
+ ![image](https://github.com/Vayansh/XAI_on_Cat_vs_Dog_Classification/assets/92180055/8f14f349-6651-4614-9604-a7a9e0da6668)
 
- ![download](https://github.com/Vayansh/XAI_on_Cat_vs_Dog_Classification/assets/92180055/52dfe0d4-af16-494c-81da-6901f64872bf)
+ 
+## Training Loss and Validation Loss Graph
 
+![image](https://github.com/Vayansh/XAI_on_Cat_vs_Dog_Classification/assets/92180055/ad8bd3b5-5281-4af4-9614-58600c804640)
 
 # Accuracy and Predictions
-
 ## Accuracy
-  This Convolutional Neural Network (CNN) model demonstrated a respectable accuracy of 0.94% at around 12500 test cases, demonstrating its strong performance and  efficacy in handling the assigned task.
+  This Convolutional Neural Network (CNN) model demonstrated a respectable accuracy of 0.86 at around 5000 test cases, demonstrating its strong performance and  efficacy in handling the assigned task.
 
 ## Predictions
 
-![image](https://user-images.githubusercontent.com/92180055/191441659-0cf86be9-361a-4a33-bc94-bc359df53c8b.png)
+ ![image](https://github.com/Vayansh/XAI_on_Cat_vs_Dog_Classification/assets/92180055/b3be01e5-f612-41e4-b6c7-4e1d1d10cde1)
 
-![image](https://user-images.githubusercontent.com/92180055/191441870-fccd6eba-65b9-4fee-8fd3-e26b73650ddd.png)
+ ![image](https://github.com/Vayansh/XAI_on_Cat_vs_Dog_Classification/assets/92180055/fb1f8bb1-af02-48f5-95b4-3bc26aacfe53)
+
+ ![image](https://github.com/Vayansh/XAI_on_Cat_vs_Dog_Classification/assets/92180055/8b5920ed-efdc-4d74-ac21-93d131bd0ea1)
+
+
+
+
+
