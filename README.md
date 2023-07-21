@@ -34,6 +34,16 @@
  ![image](https://github.com/Vayansh/XAI_on_Cat_vs_Dog_Classification/assets/92180055/8b5920ed-efdc-4d74-ac21-93d131bd0ea1)
 
 
+# Shap Explanation
+
+![image](https://github.com/Vayansh/XAI_on_Cat_vs_Dog_Classification/assets/92180055/ed360338-e594-40e1-968a-6dd6dc3e2d03)
+
+![image](https://github.com/Vayansh/XAI_on_Cat_vs_Dog_Classification/assets/92180055/847f26d2-0bc1-4711-88e7-2be350fc1c76)
+
+![image](https://github.com/Vayansh/XAI_on_Cat_vs_Dog_Classification/assets/92180055/70a6e41b-5d5e-49ab-8daa-dac4abd187a1)
+
+
+
 
 
 
